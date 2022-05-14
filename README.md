@@ -1,7 +1,7 @@
 ### Hi there, I'm Djibril Bathily 👋
 
 
-<!-- **thily00/thily00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
+<!-- **thily00/thily00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
--->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thily00&count_private=true&show_icons=true) <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thily00&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thily00&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thily00&count_private=true&show_icons=true) 
+
