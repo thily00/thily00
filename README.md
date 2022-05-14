@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Djibril Bathily 👋
 
 
 <!-- **thily00/thily00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thily00)](https://github.com/anuraghazra/github-readme-stats)
