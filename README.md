@@ -6,12 +6,14 @@
 Welcome to my page! <br/>
 I'm Djibril Bathily, Front end developer from  Dakar, Senegal, currently living in Paris, France.
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently <strong> open to work </strong>
 - 🌱 I’m currently learning <strong> Svelte </strong>
 - 💬 Ask me about  anything <strong> regarding Front End development </strong>
 - 📫 How to reach me: <a href="mailto:bathiydbl@email.com">bathiydbl@email.com</a>
 
-<!-- - 👯 I’m looking to collaborate on ...
+<!-- 
+- 🔭 I’m currently working on ...
+- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
 
 
