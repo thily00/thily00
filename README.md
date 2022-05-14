@@ -9,7 +9,7 @@ I'm Djibril Bathily, Front end developer from  Dakar, Senegal, currently living 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning <strong> Svelte </strong>
 - 💬 Ask me about anything
-- 📫 How to reach me: [@gautamkrishnar](https://twitter.com/gautamkrishnar) or <a rel="me" href="https://fosstodon.org/@gkr">fosstodon.org/@gkr</a>
+- 📫 How to reach me: [@BathilyDb](https://twitter.com/BathilyDb) or <a rel="me" href="https://www.linkedin.com/in/djibril-bathily-1016971aa/">Djibril Bathily</a>
 
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
