@@ -8,11 +8,11 @@ I'm Djibril Bathily, Front end developer from  Dakar, Senegal, currently living 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning <strong> Svelte </strong>
-<!-- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ... -->
 - 💬 Ask me about anything
 - 📫 How to reach me: ...
 
+<!-- - 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ... -->
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thily00&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br/>
